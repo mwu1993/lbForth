@@ -10,6 +10,7 @@
 | MSP430	| Assembler
 | 6502		| Assembler
 | AVR		| Assembler
+| 8051		| Assembler
 | Emacs		| Assembler
 |		|
 | PDP-1		| Research
@@ -19,7 +20,6 @@
 | Shell script	| Research
 | Batch file	| Research
 | 6809		| Research
-| 8051		| Research
 | PIC		| Research
 | Thumb		| Research
 | Xtensa	| Research
